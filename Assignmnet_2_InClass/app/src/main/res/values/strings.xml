@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Assignmnet_2_InClass</string>
+    <string name="TicketPrice">Ticket Price:</string>
+    <string name="Enter_Price">Enter Ticket Price</string>
+    <string name="Discount">Discount:</string>
+    <string name="fivePercent">5%</string>
+    <string name="TenPercent">10%</string>
+    <string name="FifteenPercent">15%</string>
+    <string name="TwentyPercent">20%</string>
+    <string name="FiftyPercent">50%</string>
+    <string name="DisconuntedPrice">Disconted Price :</string>
+    <string name="CalculateButton">Calculate</string>
+    <string name="ClearButton">Clear</string>
+</resources>
