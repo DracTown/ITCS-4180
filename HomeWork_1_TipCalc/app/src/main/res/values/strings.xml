@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="BillName">Bill Total: </string>
+    <string name="EnterBillTotal">  Enter Bill Total</string>
+    <string name="Tip">Tip %:</string>
+    <string name="Perccent10">10%</string>
+    <string name="Perccent15">15% </string>
+    <string name="Perccent18"> 18%</string>
+    <string name="PerccentCust"> Custom</string>
+    <string name="CustomScroll">Custom </string>
+    <string name="PercentScroll">0% </string>
+    <string name="Tiptotal">Tip: </string>
+    <string name="Money">$0.0 </string>
+    <string name="Total">Total: </string>
+    <string name="Split">Split By: </string>
+    <string name="One">One </string>
+    <string name="Two">Two </string>
+    <string name="Three">Three </string>
+    <string name="Four">Four </string>
+
+    <string name="TotalPerson">Total/Person </string>
+    <string name="Button">Clear </string>
+
+</resources>
